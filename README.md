@@ -1,14 +1,27 @@
-# Flappy Bird AI
+<div align="center">
+
+# 🤖 Flappy Bird AI
+
+An AI that learns to play **Flappy Bird** using neuroevolution.
+
+<br>
+
+[![Python][python-shield]][python-url]
+[![Pygame][pygame-shield]][pygame-url]
+[![NEAT][neat-shield]][neat-url]
+
+</div>
 
 ---
 
 ## Table of Contents
+
 - [About The Project](#about-the-project)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
@@ -19,34 +32,42 @@
 
 ## About The Project
 
-![Flappy Bird AI Screenshot](showcase.png)
+<p align="center">
+  <img src="showcase.png" alt="Flappy Bird AI Screenshot" width="600">
+</p>
 
-This is an AI-powered version of the classic **Flappy Bird** game, implemented using **Python** with **object-oriented programming (OOP)** principles and the **NEAT (NeuroEvolution of Augmenting Topologies)** algorithm for machine learning.
+This project recreates the classic **Flappy Bird** game with an **AI agent that learns how to play automatically**.
 
-The AI learns to play Flappy Bird by evolving neural networks that improve over generations, demonstrating the power of evolutionary algorithms in games.
+The AI is trained using the **NEAT (NeuroEvolution of Augmenting Topologies)** algorithm, which evolves neural networks over generations until they become good enough to survive longer and navigate the pipes.
 
-**Why this project exists:**
-- To explore the intersection of AI, machine learning, and game development.
-- To practice OOP and structured Python programming in a fun project.
-- To provide a template for future AI-driven game projects.
+Instead of manually coding behavior, the program:
+
+- Creates a **population of neural networks**
+- Lets each one **play the game**
+- **Scores** them based on performance
+- **Evolves** the best ones into the next generation
+
+Over time, the AI becomes significantly better at playing the game.
+
+This project demonstrates:
+
+- Machine Learning through **evolutionary algorithms**
+- **Object-Oriented Programming** in Python
+- Integration of **AI with game environments**
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
 ## Built With
 
-- **Python** – Core programming language
-- **NEAT-Python** – Implementation of NEAT algorithm
-- **Pygame** – For game graphics and rendering
-- **Object-Oriented Programming (OOP)** – For structured, reusable code
+This project uses several tools and libraries:
+
+- Python
+- Pygame
+- NEAT-Python
+- Object-Oriented Programming
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
-
-## Getting Started
-
-### Prerequisites
-Before running the project, make sure you have Python 3.7+ installed.
-
-You also need the following Python packages:
-
-```bash
-pip install pygame neat-python

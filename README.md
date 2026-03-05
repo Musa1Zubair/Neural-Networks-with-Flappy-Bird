@@ -82,10 +82,10 @@ This project uses several tools and libraries:
 
 <p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-MusaZubair-181717?style=for-the-badge&logo=github)](https://github.com/MusaZubair)
+[![GitHub](https://img.shields.io/badge/GitHub-Musa1Zubair-181717?style=for-the-badge&logo=github)](https://github.com/MusaZubair)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Musa%20Zubair-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 
-[![Email](https://img.shields.io/badge/Email-musa.zubair@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musa.zubair@email.com)
+[![Email](https://img.shields.io/badge/Email-musazubair006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musa.zubair@email.com)
 
 </p>

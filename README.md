@@ -70,4 +70,12 @@ This project uses several tools and libraries:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+[python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[python-url]: https://www.python.org/
+
+[pygame-shield]: https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white
+[pygame-url]: https://www.pygame.org/
+
+[neat-shield]: https://img.shields.io/badge/NEAT-AI-blue?style=for-the-badge
+[neat-url]: https://neat-python.readthedocs.io/
 ---

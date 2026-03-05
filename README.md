@@ -53,8 +53,6 @@ This project demonstrates:
 - **Object-Oriented Programming** in Python
 - Integration of **AI with game environments**
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## Built With
@@ -66,7 +64,6 @@ This project uses several tools and libraries:
 ![NEAT-Python](https://img.shields.io/badge/NEAT--Python-E34F26?style=for-the-badge&logo=brain&logoColor=white)
 ![OOP](https://img.shields.io/badge/Object--Oriented--Programming-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 [python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [python-url]: https://www.python.org/

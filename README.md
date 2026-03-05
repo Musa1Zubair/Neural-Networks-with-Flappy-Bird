@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Flappy Bird AI 🐤
+# 🤖 Neural Networks with Flappy Bird 🐤
 
 An AI that learns to play **Flappy Bird** using neuroevolution.
 

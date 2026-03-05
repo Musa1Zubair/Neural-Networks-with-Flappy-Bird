@@ -15,19 +15,14 @@ An AI that learns to play **Flappy Bird** using neuroevolution.
 ---
 
 <details>
-<summary><strong>📑 Table of Contents</strong></summary>
+<summary><b>📑 Table of Contents</b></summary>
+
+<br>
 
 - [About The Project](#about-the-project)
 - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
+
 - [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
 </details>
 

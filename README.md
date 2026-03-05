@@ -1,9 +1,5 @@
 # Flappy Bird AI
 
-## Project Screenshot
-![Flappy Bird AI Screenshot](path_to_screenshot.png)
-*Replace `path_to_screenshot.png` with your screenshot file path or URL.*
-
 ---
 
 ## Table of Contents
@@ -22,6 +18,8 @@
 ---
 
 ## About The Project
+
+![Flappy Bird AI Screenshot](showcase.png)
 
 This is an AI-powered version of the classic **Flappy Bird** game, implemented using **Python** with **object-oriented programming (OOP)** principles and the **NEAT (NeuroEvolution of Augmenting Topologies)** algorithm for machine learning.
 

@@ -30,9 +30,11 @@ An AI that learns to play **Flappy Bird** using neuroevolution.
 
 ## About The Project
 
-<p align="center">
-  <img src="showcase.png" alt="Flappy Bird AI Screenshot" width="600">
-</p>
+## 📸 Screenshot / Demo
+
+<div align="center">
+  <img src="screenrecording.gif" style="max-width: 100%; height: auto;">
+</div>
 
 This project recreates the classic **Flappy Bird** game with an **AI agent that learns how to play automatically**.
 

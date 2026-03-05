@@ -73,7 +73,6 @@ This project uses several tools and libraries:
 
 [neat-shield]: https://img.shields.io/badge/NEAT-AI-blue?style=for-the-badge
 [neat-url]: https://neat-python.readthedocs.io/
----
 
 ## 📬 Contact
 

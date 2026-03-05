@@ -30,8 +30,6 @@ An AI that learns to play **Flappy Bird** using neuroevolution.
 
 ## About The Project
 
-## 📸 Screenshot / Demo
-
 <div align="center">
   <img src="screenrecording.gif" style="max-width: 100%; height: auto;">
 </div>

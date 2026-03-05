@@ -63,10 +63,10 @@ This project demonstrates:
 
 This project uses several tools and libraries:
 
-- Python
-- Pygame
-- NEAT-Python
-- Object-Oriented Programming
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pygame](https://img.shields.io/badge/pygame-000000?style=for-the-badge&logo=pygame&logoColor=white)
+![NEAT-Python](https://img.shields.io/badge/NEAT--Python-E34F26?style=for-the-badge&logo=brain&logoColor=white)
+![OOP](https://img.shields.io/badge/Object--Oriented--Programming-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

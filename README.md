@@ -82,9 +82,9 @@ This project uses several tools and libraries:
 
 <p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Musa1Zubair-181717?style=for-the-badge&logo=github)](https://github.com/MusaZubair)
+[![GitHub](https://img.shields.io/badge/GitHub-Musa1Zubair-181717?style=for-the-badge&logo=github)](https://github.com/Musa1Zubair)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Musa%20Zubair-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Musa%20Zubair-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-zubair/)
 
 [![Email](https://img.shields.io/badge/Email-musazubair006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musa.zubair@email.com)
 
